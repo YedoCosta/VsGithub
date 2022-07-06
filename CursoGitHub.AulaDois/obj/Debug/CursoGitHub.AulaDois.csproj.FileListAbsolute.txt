@@ -1,0 +1,8 @@
+C:\Users\Aluno\Documents\VS Comunity\CursoGitHub\CursoGitHub.AulaDois\bin\Debug\CursoGitHub.AulaDois.exe.config
+C:\Users\Aluno\Documents\VS Comunity\CursoGitHub\CursoGitHub.AulaDois\bin\Debug\CursoGitHub.AulaDois.exe
+C:\Users\Aluno\Documents\VS Comunity\CursoGitHub\CursoGitHub.AulaDois\bin\Debug\CursoGitHub.AulaDois.pdb
+C:\Users\Aluno\Documents\VS Comunity\CursoGitHub\CursoGitHub.AulaDois\obj\Debug\CursoGitHub.AulaDois.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\VS Comunity\CursoGitHub\CursoGitHub.AulaDois\obj\Debug\CursoGitHub.AulaDois.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\VS Comunity\CursoGitHub\CursoGitHub.AulaDois\obj\Debug\CursoGitHub.AulaDois.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\VS Comunity\CursoGitHub\CursoGitHub.AulaDois\obj\Debug\CursoGitHub.AulaDois.exe
+C:\Users\Aluno\Documents\VS Comunity\CursoGitHub\CursoGitHub.AulaDois\obj\Debug\CursoGitHub.AulaDois.pdb
